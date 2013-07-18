@@ -8,7 +8,7 @@ DATA WORK.IEP_yrs;
         year             BEST12.
         iep_spec_ed_flg  $CHAR15. ;
     INFORMAT
-        student_id       $CHAR11.
+        student_id       $CHAR11.kkkkkkk
         year             BEST12.
         iep_spec_ed_flg  $CHAR15. ;
     INFILE 'C:\DOCUME~1\BJABBA~1\LOCALS~1\Temp\SAS Temporary Files\_TD432\#LN00015'
